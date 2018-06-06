@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 BBBB
 AAAA
+=======
+>>>>>>> parent of cccfeec... 修改1
